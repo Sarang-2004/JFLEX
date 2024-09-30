@@ -1,0 +1,13 @@
+int var1 = 42;      
+String name = "John Doe"; //
+
+/*
+This is a multi-line comment
+spanning multiple lines.
+*/
+
+char letter = 'A';   // Character variable
+
+// Sample input with various tokens
+var2 = var1 + 10;    // Assignment with arithmetic
+print(name);         // Function call
